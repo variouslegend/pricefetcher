@@ -1,0 +1,11 @@
+Cheapest rate in 2025-01: 2025-01-05 for €1229
+Cheapest rate in 2025-02: 2025-01-31 for €1229
+Cheapest rate in 2025-03: 2025-02-28 for €1255
+Cheapest rate in 2025-04: 2025-03-31 for €1287
+Cheapest rate in 2025-05: 2025-05-03 for €1524
+Cheapest rate in 2025-06: 2025-06-08 for €1524
+Cheapest rate in 2025-07: 2025-06-30 for €1920
+Cheapest rate in 2025-08: 2025-08-30 for €1457
+Cheapest rate in 2025-09: 2025-08-31 for €1335
+Cheapest rate in 2025-10: 2025-10-30 for €1255
+Cheapest rate in 2025-11: 2025-11-01 for €1229
